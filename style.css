@@ -353,6 +353,7 @@ li:hover{
 @media screen and (min-width: 1200px) {
     .container{
         padding: 2em 7em;
+       max-width: 1400px;
     }
 }
 @media screen and (min-width: 1400px) {
